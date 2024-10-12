@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header.hero {
+  background: #4caf50;
+  color: white;
+  text-align: center;
+}
+
+header.hero .hero-image {
+  width: 100%;
+  height: auto;
+}
+
+header.hero h1 {
+  font-size: 2.5em;
+  margin: 20px 0;
+}
+
+header.hero p {
+  font-size: 1.2em;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #4caf50;
+  margin-top: 0;
+}
+
+.section-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+footer p {
+  margin: 0;
+}
